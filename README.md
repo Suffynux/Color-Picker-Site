@@ -1,3 +1,6 @@
+## Live Demo
+https://suffynux.github.io/Color-Picker-Site/
+
 # Color Picker from Images
 
 This is a simple web application that allows users to upload an image, pick a color from it using the Eyedropper API, and view the selected color's hexadecimal code.
